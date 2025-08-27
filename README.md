@@ -82,11 +82,11 @@ Action: Run digital ads & promotions in these time slots.
 
 ### Business Impact & Recommendations
 
-✔ Focus on high-performing categories (Colors, Sweets, Soft Toys).
-✔ Plan festival-based campaigns around Holi, Raksha Bandhan, and Anniversaries.
-✔ Expand operations in top-order cities for higher market penetration.
-✔ Optimize logistics to reduce delivery time and improve customer satisfaction.
-✔ Leverage time-based marketing for maximum conversions.
+- Focus on high-performing categories (Colors, Sweets, Soft Toys).
+- Plan festival-based campaigns around Holi, Raksha Bandhan, and Anniversaries.
+- Expand operations in top-order cities for higher market penetration.
+- Optimize logistics to reduce delivery time and improve customer satisfaction.
+- Leverage time-based marketing for maximum conversions.
 
 ### Conclusion
 
